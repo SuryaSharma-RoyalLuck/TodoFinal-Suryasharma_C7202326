@@ -18,4 +18,4 @@
     <li>logout function.</li>
 </ul>
 
-<img src="todofinal.png" width="50%">
+<img src="todofinal.gif" width="50%">
